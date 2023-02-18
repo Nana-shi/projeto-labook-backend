@@ -30,19 +30,19 @@ As informações contidas no banco de dados são as seguintes:
  - Delete Post: Endpoint para deletar um post já existente, é necessario token de login do criador do post ou de usuário Admin;
  - Like/Dislike Post: Endpoint para dar like ou dislike em um post existente;
 
- ### Conteúdos abordados na criação do projeto
-    - NodeJS
-    - Typescript
-    - Express
-    - SQL e SQLite
-    - Knex
-    - POO
-    - Arquitetura em camadas
-    - Geração de UUID
-    - Geração de hashes
-    - Autenticação e autorização
-    - Roteamento
-    - Postman
+ ## Conteúdos abordados na criação do projeto
+    - NodeJS;
+    - Typescript;
+    - Express;
+    - SQL e SQLite;
+    - Knex;
+    - POO;
+    - Arquitetura em camadas;
+    - Geração de UUID;
+    - Geração de hashes;
+    - Autenticação e autorização;
+    - Roteamento;
+    - Postman;
 
  ## Tecnologias
 
